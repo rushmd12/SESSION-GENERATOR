@@ -57,8 +57,8 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by RUSH TECH*
-*_Made With 🤍_*
+*_Pair Code Connected by RUSH*
+*_Made With RUSH_*
 ______________________________________
 ╔════◇
 ║ *『 WOW YOU'VE CHOSEN RUSH MD 』*
@@ -66,12 +66,12 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@1_
-║❒ *Owner:* _https://wa.me/94762498519_
-║❒ *Repo:* _https://github.com/Rush-MD/Rush-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VacPdLXJ93wP6q0b962J
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VacPdLXJ93wP6q0b962J
-║❒ *Plugins:* _https://github.com/Rush-MD/Rush-MD_
+║❒ 
+║❒ 
+║❒ 
+║❒ 
+║❒ 
+║
 ╚════════════════════════╝
 _____________________________________
 
